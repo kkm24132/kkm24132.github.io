@@ -1,12 +1,13 @@
 
 ---
-title       : Welcome to Kamal's Git Pages
+theme       : jekyll-theme-cayman
+title       : Welcome to Kamal's HomePage
+description : Please refer to my pages and the work in Data Science and AI space
 subtitle    : Data Science and AI Leader, Entrepreneur, Industry Mentor
 author      : Kamal Mishra
 job         : Data Science and Artificial Intelligence
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
