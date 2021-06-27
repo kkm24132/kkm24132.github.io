@@ -1,4 +1,3 @@
-# Welcome to Kamal's GitHub
 
 ---
 title       : Welcome to Kamal's Git Pages
