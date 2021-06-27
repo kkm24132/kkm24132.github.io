@@ -2,9 +2,9 @@
 
 ---
 title       : Welcome to Kamal's Git Pages
-subtitle    : Data Science and AI Leader | Entrepreneur | Industry Mentor
+subtitle    : Data Science and AI Leader, Entrepreneur, Industry Mentor
 author      : Kamal Mishra
-job         : Entrepreneur | Data Science and AI Leader | Mentor
+job         : Data Science and Artificial Intelligence
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
