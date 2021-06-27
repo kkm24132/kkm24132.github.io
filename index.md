@@ -1,3 +1,9 @@
+# Welcome to Kamal's GitHub
+
+You can refer to my [Project Pages](https://github.com/kkm24132/Products_Projects_Initiatives) to get some idea about value and impact created in business over past few years in the field of Data Science and AI. These are non-exhaustive list of Projects / Intiatives / Product Development efforts listed.
+
+
+
 ---
 title       : Body Mass Index (BMI) Calculator Engine
 subtitle    : Developing Data Products for Coursera Assignments
