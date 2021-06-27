@@ -1,8 +1,9 @@
+
 ---
-title       : Body Mass Index (BMI) Calculator Engine
-subtitle    : Developing Data Products for Coursera Assignments
+title       : Welcome to Kamal's Git Pages
+subtitle    : Data Science and AI Leader, Entrepreneur, Industry Mentor
 author      : Kamal Mishra
-job         : Practice Lead - Data Analytics and Data Science
+job         : Data Science and Artificial Intelligence
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -11,55 +12,21 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## What is BMI?
+## Kamal's  Profile
 
-The Body Mass Index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. Regarding the BMI measure, the World Health Organization (WHO) proposes the following classification:
-* BMI < 18.5       : Underweight
-* BMI [18.5-24.9]  : Normal weight
-* BMI [25-29.9]    : Overweight
-* BMI >= 30        : Obesity
+Kamal is a Data and AI Leader having a good track record of digital transformations leveraging Data Science and AI. With 23+ yrs of experience, he brings a unique blend of strategic thinking, consultative approach, innovation dimension, data-driven decision making, people leadership, deep data science expertise coupled with industry experience with an open mindset to help build and scale businesses and outcomes for customers. He has industry experience in BFSI, Retail & CPG, and other industries using Machine Learning methods.:
 
---- 
-
-## How it is calculated?
-There is a formula for calculating the BMI measure. The formula is the following:
-
-BMI = weight(kg) / height(metres)$^2$
-
-Thus for example, the BMI will be:
-
-```{r }
-weight=65
-height=1.65
-BMI<-weight / height^2
-BMI
-```
-
----
-
-## Diagnostic
-The function use for calculating the diagnostic is the following:
-```{r }
-diagnostic_f<-function(weight,height){
-        BMI_value<-weight/(height^2)
-        ifelse(BMI_value<18.5,"underweight",ifelse(BMI_value<25,"normal weight",ifelse(BMI_value<30,"overweight","obesity")))
-}
-```
-
-For our example (weight=65 kg and height=1.65 m) the diagnostic would be:
-```{r }
-diagnostic_f(65,1.65)
-
-```
-
----
-
-## Conclusion
-The BMI is a relatively easy, cheap and non-invasive method for establishing weight status, and for most people, it correlates reasonably well with their level of body fat. 
-
-However, BMI is only a proxy for body fatness. other factors such as fitness, ethnic origin and puberty can alter the relation between BMI and body fatness and must be taken into consideration.
+International / Exceptional Accomplishments:
+* 2 Patents and 4 Defensive Publications filed in last two years
+* Publication in IEEE conference and poster paper presentation on Predictive Analytics
+* 10+ published blogs on Medium.com (which are further published in forums such as TowardsDataScience / Analytics Vidhya etc.)
+* Certified Master Data Scientist - from The Open Group and from IBM
+* 6 Articles on LinkedIn on Data Science and AI
 
 
+## Kamal's Project/Product/Initiatives at a Snapshot
+
+You can refer to my [Project Pages](https://github.com/kkm24132/Products_Projects_Initiatives) to get some idea about value and impact created in business over past few years in the field of Data Science and AI. These are non-exhaustive list of Projects / Intiatives / Product Development efforts listed.
 
 
 
